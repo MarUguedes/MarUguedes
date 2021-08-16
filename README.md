@@ -1,5 +1,5 @@
 ### Olá Mundo, eu sou a Marcela Guedes 👋 
-🌱 Estou aprendendo: java Script, HTML e CSS.
+🌱 Estou aprendendo: Javascript, HTML e CSS.
 
 😄 Pronomes: Ela/Dela
 

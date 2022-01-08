@@ -1,9 +1,9 @@
 ### Olá Mundo, eu sou a Marcela Guedes 👋 
-🌱 Estou aprendendo: Flutter e Dart.
+🌱 Estou aprendendo: Flutter | Kotlin.
 
-🎯 Skills: JavaScript | HTML| CSS.
+🎯 Hard-Skills: Dart | JavaScript | HTML| CSS.
 
-💻 Ferramentas: Git | GitHub | VS Code.
+💻 Ferramentas: Git | GitHub | VS Code | Android Studio.
 
 ⚡ Área Dev: Mobile | Front-End.
 

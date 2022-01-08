@@ -3,7 +3,7 @@
 
 🎯 Hard-Skills: Dart | JavaScript | HTML| CSS.
 
-💻 Ferramentas: Git | GitHub | VS Code | Android Studio.
+💻 Ferramentas: Git | GitHub | VS Code | Android Studio | Firebase.
 
 ⚡ Área Dev: Mobile | Front-End.
 

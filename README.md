@@ -1,5 +1,5 @@
 ### Olá Mundo, eu sou a Marcela Guedes 👋 
-🌱 Estou aprendendo: Flutter | Kotlin.
+🌱 Estou aprendendo: Flutter | Dart.
 
 🎯 Hard-Skills: Dart | JavaScript | HTML| CSS.
 

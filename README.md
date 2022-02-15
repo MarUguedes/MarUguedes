@@ -1,5 +1,5 @@
 ### Olá Mundo, eu sou a Marcela Guedes 👋 
-🌱 Estou aprendendo: Firebase | Kotlin
+🌱 Estou aprendendo: Firebase
 
 🎯 Hard-Skills: Flutter | Dart | JavaScript | HTML| CSS.
 

@@ -1,7 +1,8 @@
 ### Olá Mundo, eu sou a Marcela Guedes 👋 
-🌱 Estou aprendendo: Firebase
 
 🎯 Hard-Skills: Flutter | Dart | JavaScript | HTML| CSS.
+
+🌱 Estou aprendendo: Firebase
 
 💻 Ferramentas: Git | GitHub | VS Code | Android Studio | Firebase.
 
